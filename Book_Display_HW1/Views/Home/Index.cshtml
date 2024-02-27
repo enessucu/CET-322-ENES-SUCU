@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model List<Book>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Book Name</th>
+            <th>Author</th>
+            <th>Page Number</th>
+            <th>Due Date</th>
+            <th>Days Until Delivery</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var book in Model)
+        {
+            <tr>
+                <td>@book.Name</td>
+                <td>@book.Author</td>
+                <td>@book.PageNumber</td>
+                <td>@book.DueDate.ToShortDateString()</td>
+                <td style="color: @(book.DaysUntilDelivery < 0 ? "red" : "green")">@book.DaysUntilDelivery</td>
+            </tr>
+        }
+    </tbody>
+</table>
+

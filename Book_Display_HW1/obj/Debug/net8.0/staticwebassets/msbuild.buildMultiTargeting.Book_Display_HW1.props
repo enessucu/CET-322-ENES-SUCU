@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Book_Display_HW1.props" />
+</Project>
