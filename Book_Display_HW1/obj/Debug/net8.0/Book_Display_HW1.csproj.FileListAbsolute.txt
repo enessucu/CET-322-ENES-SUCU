@@ -28,3 +28,34 @@ D:\Visual Studio\repos\Book_Display_HW1\obj\Debug\net8.0\refint\Book_Display_HW1
 D:\Visual Studio\repos\Book_Display_HW1\obj\Debug\net8.0\Book_Display_HW1.pdb
 D:\Visual Studio\repos\Book_Display_HW1\obj\Debug\net8.0\Book_Display_HW1.genruntimeconfig.cache
 D:\Visual Studio\repos\Book_Display_HW1\obj\Debug\net8.0\ref\Book_Display_HW1.dll
+C:\Users\enesi\Source\Repos\enessucu\CET-322-ENES-SUCU\Book_Display_HW1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\enesi\Source\Repos\enessucu\CET-322-ENES-SUCU\Book_Display_HW1\bin\Debug\net8.0\appsettings.json
+C:\Users\enesi\Source\Repos\enessucu\CET-322-ENES-SUCU\Book_Display_HW1\bin\Debug\net8.0\Book_Display_HW1.staticwebassets.runtime.json
+C:\Users\enesi\Source\Repos\enessucu\CET-322-ENES-SUCU\Book_Display_HW1\bin\Debug\net8.0\Book_Display_HW1.exe
+C:\Users\enesi\Source\Repos\enessucu\CET-322-ENES-SUCU\Book_Display_HW1\bin\Debug\net8.0\Book_Display_HW1.deps.json
+C:\Users\enesi\Source\Repos\enessucu\CET-322-ENES-SUCU\Book_Display_HW1\bin\Debug\net8.0\Book_Display_HW1.runtimeconfig.json
+C:\Users\enesi\Source\Repos\enessucu\CET-322-ENES-SUCU\Book_Display_HW1\bin\Debug\net8.0\Book_Display_HW1.dll
+C:\Users\enesi\Source\Repos\enessucu\CET-322-ENES-SUCU\Book_Display_HW1\bin\Debug\net8.0\Book_Display_HW1.pdb
+C:\Users\enesi\Source\Repos\enessucu\CET-322-ENES-SUCU\Book_Display_HW1\obj\Debug\net8.0\Book_Display_HW1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enesi\Source\Repos\enessucu\CET-322-ENES-SUCU\Book_Display_HW1\obj\Debug\net8.0\Book_Display_HW1.AssemblyInfoInputs.cache
+C:\Users\enesi\Source\Repos\enessucu\CET-322-ENES-SUCU\Book_Display_HW1\obj\Debug\net8.0\Book_Display_HW1.AssemblyInfo.cs
+C:\Users\enesi\Source\Repos\enessucu\CET-322-ENES-SUCU\Book_Display_HW1\obj\Debug\net8.0\Book_Display_HW1.csproj.CoreCompileInputs.cache
+C:\Users\enesi\Source\Repos\enessucu\CET-322-ENES-SUCU\Book_Display_HW1\obj\Debug\net8.0\Book_Display_HW1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\enesi\Source\Repos\enessucu\CET-322-ENES-SUCU\Book_Display_HW1\obj\Debug\net8.0\Book_Display_HW1.RazorAssemblyInfo.cache
+C:\Users\enesi\Source\Repos\enessucu\CET-322-ENES-SUCU\Book_Display_HW1\obj\Debug\net8.0\Book_Display_HW1.RazorAssemblyInfo.cs
+C:\Users\enesi\Source\Repos\enessucu\CET-322-ENES-SUCU\Book_Display_HW1\obj\Debug\net8.0\Book_Display_HW1.sourcelink.json
+C:\Users\enesi\Source\Repos\enessucu\CET-322-ENES-SUCU\Book_Display_HW1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\enesi\Source\Repos\enessucu\CET-322-ENES-SUCU\Book_Display_HW1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\enesi\Source\Repos\enessucu\CET-322-ENES-SUCU\Book_Display_HW1\obj\Debug\net8.0\staticwebassets\msbuild.Book_Display_HW1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\enesi\Source\Repos\enessucu\CET-322-ENES-SUCU\Book_Display_HW1\obj\Debug\net8.0\staticwebassets\msbuild.build.Book_Display_HW1.props
+C:\Users\enesi\Source\Repos\enessucu\CET-322-ENES-SUCU\Book_Display_HW1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Book_Display_HW1.props
+C:\Users\enesi\Source\Repos\enessucu\CET-322-ENES-SUCU\Book_Display_HW1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Book_Display_HW1.props
+C:\Users\enesi\Source\Repos\enessucu\CET-322-ENES-SUCU\Book_Display_HW1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\enesi\Source\Repos\enessucu\CET-322-ENES-SUCU\Book_Display_HW1\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\enesi\Source\Repos\enessucu\CET-322-ENES-SUCU\Book_Display_HW1\obj\Debug\net8.0\scopedcss\bundle\Book_Display_HW1.styles.css
+C:\Users\enesi\Source\Repos\enessucu\CET-322-ENES-SUCU\Book_Display_HW1\obj\Debug\net8.0\scopedcss\projectbundle\Book_Display_HW1.bundle.scp.css
+C:\Users\enesi\Source\Repos\enessucu\CET-322-ENES-SUCU\Book_Display_HW1\obj\Debug\net8.0\Book_Display_HW1.dll
+C:\Users\enesi\Source\Repos\enessucu\CET-322-ENES-SUCU\Book_Display_HW1\obj\Debug\net8.0\refint\Book_Display_HW1.dll
+C:\Users\enesi\Source\Repos\enessucu\CET-322-ENES-SUCU\Book_Display_HW1\obj\Debug\net8.0\Book_Display_HW1.pdb
+C:\Users\enesi\Source\Repos\enessucu\CET-322-ENES-SUCU\Book_Display_HW1\obj\Debug\net8.0\Book_Display_HW1.genruntimeconfig.cache
+C:\Users\enesi\Source\Repos\enessucu\CET-322-ENES-SUCU\Book_Display_HW1\obj\Debug\net8.0\ref\Book_Display_HW1.dll
